@@ -1,0 +1,2 @@
+http://elprojects.blogspot.com/2011/01/socket-programming-in-c-online-database.html
+http://www.winsocketdotnetworkprogramming.com/winsock2programming/winsock2advancedcode1d.html   // how to compile c socket code in visual studio 2008
